@@ -8,7 +8,7 @@ Hi, im @diegofloresj I am Mexican, passionate about programming, although I am s
 module.exports = {
     app: {
         name: 'Dj Elotero',
-        use: 'Discord Music',
+        use: 'Discord Bot Music',
         global: true
     },
     app-2: {

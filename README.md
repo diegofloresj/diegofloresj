@@ -4,8 +4,6 @@ Hi, im @diegofloresj I am Mexican, passionate about programming, although I am s
 
 ### ⚡ Proyects
 
-Open the configuration file located in the main folder `config.js`.
-
 ```js
 module.exports = {
     app: {

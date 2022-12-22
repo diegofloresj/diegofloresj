@@ -2,6 +2,8 @@
 
 Hi, im @diegofloresj I am Mexican, passionate about programming, although I am still learning many things about it 🤓
 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://www.twitch.tv/moderator/c03x4) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/diego_fj27) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCAFv7uVo0lDJ3YkH17X7KaA)
+
 ### ⚡ Proyects
 
 ```js
@@ -32,6 +34,12 @@ Sr Elotero Bot 🌽
 - `app-2/use`, This bot is multipurpose so it can be your main bot but currently
 - `app-2/global`, Unfortunately, it is a private bot so it was made exclusively for a specific server, I regret not being able to add the bot
 
+### GitHub Stats 📈
+![](https://github-readme-stats.vercel.app/api?username=diegofloresj&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=diegofloresj&theme=radical&hide_border=false)<br/>
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 diegofloresj/diegofloresj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

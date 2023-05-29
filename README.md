@@ -34,7 +34,7 @@ Dj Elotero 🌽
 - `app/name`, The name of the bot was inspired by a friend of mine that I esteem too much
 - `app/use`, Currently it is not very well known, it is active in a few servers but, I hope one day to see it verified 🤵
 - `app/global`, It is public to anyone who wants to add it to their server, but the base code is not
-- `app/invite`, If you want to try it or leave it on your server as a preferred music bot, I would greatly appreciate your interest in trying it [Invitation link](https://discord.com/api/oauth2/authorize?client_id=987401156756119652&permissions=8&scope=bot%20applications.commands).
+- `app/invite`, If you want to try it or leave it on your server as a preferred music bot, I would greatly appreciate your interest, but actually is offline 
 
 Sr Elotero Bot 🌽
 
